@@ -1,1 +1,3 @@
-# persify
+# Persify
+
+Convert English digits to Persian
