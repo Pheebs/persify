@@ -1,8 +1,0 @@
-// Place your settings in this file to overwrite the default settings
-{
-  "editor.tabSize": 2,
-  "prettier.singleQuote": true,
-  "prettier.semi": true,
-  "prettier.trailingComma": "none",
-  "editor.formatOnSave": true
-}
