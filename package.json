@@ -1,0 +1,21 @@
+{
+  "name": "persify",
+  "version": "1.0.0",
+  "description": "Convert English digits to Persian",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pheebs/persify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "english",
+    "persian",
+    "digits",
+    "convert"
+  ],
+  "author": "Hamed Valizadeh",
+  "license": "MIT"
+}
