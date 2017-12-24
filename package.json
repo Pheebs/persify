@@ -1,6 +1,6 @@
 {
   "name": "persify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert English digits to Persian",
   "main": "index.js",
   "types": "index.d.ts",
