@@ -8,7 +8,7 @@
     "url": "git@github.com:pheebs/persify.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "keywords": [
     "english",
@@ -17,5 +17,8 @@
     "convert"
   ],
   "author": "Hamed Valizadeh",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
 }
