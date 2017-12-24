@@ -1,6 +1,5 @@
 /.vscode
 /node_modules
 *.log
-/test.js
 .DS_Store
 .idea
