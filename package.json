@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Convert English digits to Persian",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git@github.com:pheebs/persify.git"
