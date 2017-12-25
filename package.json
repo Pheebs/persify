@@ -15,7 +15,9 @@
     "english",
     "persian",
     "digits",
-    "convert"
+    "convert",
+    "number",
+    "localization"
   ],
   "author": "Hamed Valizadeh",
   "license": "MIT",

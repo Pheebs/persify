@@ -1,6 +1,6 @@
 ## Persify
 
-Convert English digits to Persian digits in browser and node.js
+A JavaScript library to convert English digits and numbers to Persian (Farsi) digits. It works in browser and Node.js.
 
 [![Build Status][travis-image]][travis-url]
 
@@ -13,9 +13,9 @@ $ npm install persify
 ## Usage
 
 ```js
-const persify = require('persify')
+const persify = require('persify');
 
-persify('Hello 123')
+persify('Hello 123');
 // => "Hello ۱۲۳"
 ```
 
